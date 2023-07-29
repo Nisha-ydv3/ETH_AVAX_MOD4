@@ -28,6 +28,16 @@ The hasEnoughTokensForRedemption function enables token holders to check if they
 
 6.For the interaction with your given function you can use transact to get the trnsaction done.
 
+a. https://core.app/tools/testnet-faucet/?subnet=c&token=c
+
+Get AVAX token for testing purpose
+
+b.https://testnet.snowtrace.io/
+
+You can track your transaction here.
+
+
+
 
 ## Authors
 This contract is created by Nisha- nishaneha924@gmail.com
